@@ -8,7 +8,7 @@ The project focuses on **smooth animations, modern UI design, and user-friendly 
 
 ## 🚀 Live Demo  
 🔗 **Live Preview:**  
-https://your-live-link.com
+https://aditi-raj07.github.io/Grocery-Inmins/
 
 ---
 
@@ -25,7 +25,8 @@ https://your-live-link.com
 </p>
 
 <p align="center">
-  <img src=" https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 </p>
 
 ---
