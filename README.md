@@ -25,7 +25,7 @@ https://your-live-link.com
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+  <img src=" https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" />
 </p>
 
 ---
@@ -51,20 +51,5 @@ https://your-live-link.com
 
 ---
 
-## 🖼️ Project Preview
 
-### 🏠 Home Page
-![Home](assets/images/home.png)
-
-### 🛒 Grocery Section
-![Products](assets/images/products.png)
-
-### 📱 Mobile View
-![Mobile](assets/images/mobile.png)
-
-> 📌 Replace image paths with your actual project images.
-
----
-
-## 📂 Project Structure
 
